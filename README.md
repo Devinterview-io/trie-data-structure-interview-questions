@@ -4,7 +4,7 @@
 
 Check out our carefully selected list of **basic** and **advanced** Trie questions and answers to be well-prepared for your tech interviews in 2024.
 
-![Trie Decorative Image](https://storage.googleapis.com/dev-stack-app.appspot.com/blogImg/trie.png?GoogleAccessId=firebase-adminsdk-bgeaf%40dev-stack-app.iam.gserviceaccount.com&Expires=1698607220&Signature=Lv0qlC14Ogs3AmrtP4SDs8qNr%2BokGa4FGPes2Cd5Ofn%2FjRtZjs6sXWZXJbsdTuCaU%2BjUG2MXFCD7PPUOiqT%2BLYQgfYGlofKMMeLzd%2BRHC%2F8xidqvvDDO%2BWmV01Lp8S%2BAPEe2Kn8xuM%2BVHQZwYliUFbb5KdFwZwl6tgayROtehhEPIhXDy7FMgbYh7FESeDSv%2FVDtZKCDnLd6a5Pz5Fv1dX2aEDazC4QP%2Bec1cbhHYO16dkChvmwJkIrWECni2dxyd31vcfJAf40P0KF9kgo5RrXGlcrFTHLhzn3dHhyPpxGQ9igT2%2F5I%2FfxZbmsZI0JfZVypN0O19tBF7YPnPl54Iw%3D%3D)
+![Trie Decorative Image](https://firebasestorage.googleapis.com/v0/b/dev-stack-app.appspot.com/o/blogImg%2Ftrie.png?alt=media&token=e3b4fe0f-ee0e-4dd9-ad21-0ef2af60f82c&_gl=1*a3wv5c*_ga*OTYzMjY5NTkwLjE2ODg4NDM4Njg.*_ga_CW55HF8NVT*MTY5ODYwNTk1NS4xOTAuMS4xNjk4NjA2NjQ5LjM0LjAuMA..)
 
 👉🏼 You can also find all answers here: [Devinterview.io - Trie](https://devinterview.io/data/trie-interview-questions)
 
