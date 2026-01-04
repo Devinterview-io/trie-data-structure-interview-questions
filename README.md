@@ -1,4 +1,4 @@
-# 28 Must-Know Trie Data Structure Interview Questions in 2025
+# 28 Must-Know Trie Data Structure Interview Questions in 2026
 
 <div>
 <p align="center">
